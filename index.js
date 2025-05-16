@@ -52,7 +52,7 @@ const logger = {
 
     console.log('-------------------------------------------------');
 
-    console.log(' Pharos Testnet Auto Bot - Airdrop Insiders');
+    console.log(' Pharos Testnet Auto Bot - TG Channel: Alarm Airdrops');
 
     console.log('-------------------------------------------------');
 
