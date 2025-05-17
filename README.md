@@ -199,10 +199,3 @@ Thank you for visiting this repository, don't forget to contribute in the form o
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
 
 **Abdurrahmanxii**
-
-
-## License 📄
-
-
-
-MIT License - See LICENSE file for details
