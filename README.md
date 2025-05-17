@@ -188,6 +188,17 @@ For issues or questions, please open an issue on GitHub.
 
 This software is provided "as is" without warranties. Use at your own risk. The developers are not responsible for any losses or issues caused by using this bot.
 
+## Buy Me a Coffee
+
+- **EVM:** 0xe74d20cf64404e8ec61b6a093e7cf25ee71290bc
+- **TON:** UQD2OqWi9XgRiimManJzwhf350H3E8xz5kZUTPtqqJeRNb2t
+- **SOL:** B6oZH8fQnE54mcMmXYxav3iytRvMx7BSyM2EBJHBmSn4
+- **SUI:** 0xbe8e21c3a83e181182a18e8120c2e4f8944e9466554364c5fbbd2da964443727
+  
+Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
+If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
+
+**Abdurrahmanxii**
 
 
 ## License 📄
